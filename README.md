@@ -1,7 +1,3 @@
-Claro, aquí tienes un ejemplo de README para tu proyecto. Este archivo proporciona una visión general de la aplicación, cómo instalarla, cómo usarla y otros detalles importantes.
-
----
-
 # MySQL Command Line Interface
 
 Este proyecto es una interfaz de línea de comandos para interactuar con bases de datos MySQL. Permite ejecutar consultas SQL directamente desde la terminal y muestra los resultados en una tabla formateada utilizando la biblioteca `rich`.
